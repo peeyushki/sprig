@@ -1,6 +1,6 @@
 # Flappy Sprig
 
-Demo at: <a href="https://sprig.hackclub.com/~/au64BXPgiu0EQIWRLqlS" />
+Demo: [Play Flappy Sprig](https://sprig.hackclub.com/~/au64BXPgiu0EQIWRLqlS)
 
 [![Flappy Sprig](https://i.ibb.co/jv0jjVqm/Screenshot-2026-09-29-234421.png)](https://ibb.co/C5CSSJ4g)
 
